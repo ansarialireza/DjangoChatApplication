@@ -140,3 +140,14 @@ CHANNEL_LAYERS = {
         },
     },
 }
+
+
+
+# Static URL
+STATIC_URL = 'static/'
+
+# Static files directories
+# STATICFILES_DIRS = [
+#     # Add the path to your project-level "static" directory
+#     BASE_DIR / "static",
+# ]
